@@ -1,5 +1,5 @@
 package main
 
 func main() {
-  // main
+  // main 2.x
 }
